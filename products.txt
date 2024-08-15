@@ -1,0 +1,6 @@
+1,bor,2,tdy,Women,40,50,Black,50
+1,bor,5,mmmm,Men,40,20,black,60
+1,bor,10,bbb,Men,45,80,black,50
+3,boub,44,dvds,Men,78,96,bl,5
+4,bib,47,bbbb,Men,14,74,bb,45
+2,borbor,7,vv,Men,14,55,green,41
